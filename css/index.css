@@ -1,0 +1,96 @@
+#header-text-8 .bg {
+    background-image: url('../images//uploaded/1845/1845-websmith__CloudsOnSunset-min.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity:0.75;
+}#sep-top-7--0 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}
+
+#sep-top-7--0 .bg {
+    background-image: url('../images/bg-fog-top.png');
+    background-repeat: repeat-x;
+    background-position: center top;
+    background-size: auto 100px;
+}
+#header-text-img .bg {
+    background-image: url('../images/bg-25.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity:0.075;
+}#desc-text-3 .bg-wrap {
+    background-color: #c5b9aa;
+}
+
+#desc-text-3 .bg {
+    background-image: url('../images/bg-76.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 0.03;
+}
+#desc-text-6 .bg {
+    background-image: url('../images//uploaded/1845/1845-websmith__reciting-holly-quran-2022-01-28-17-55-19-utc-min.jpg');
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: cover;
+    opacity:1;
+}
+#desc-text-8 .bg {
+    background-image: url('../images/uploaded/1845/1845-websmith__muslim-man-praying-during-ramadan-close-up-2021-08-30-04-43-28-utc-min.jpg');
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    opacity:1;
+}
+#team-2col-3 .bg {
+    background-image: url('../images/uploaded/1845/1845-websmith__afc-masjid.jpeg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity:0.1;
+}#benefits-4col-7 .bg-wrap {
+    background-color: #F4F5F6;
+}
+
+
+#benefits-4col-7 .bg {
+    background-image: url('../images/bg-pattern-3.png');
+    background-repeat: repeat;
+    background-position: center;
+    background-size: 50px 50px;
+    opacity:0.075;
+}
+
+#desc-items-list .bg {
+	background-position: left top;
+	background-image: url('../images/bg-30.jpg');
+}#action-text-btn .bg {
+    background-image: url('../images//uploaded/1845/1845-websmith__Background.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity: 0.8;
+}
+#sep-bottom-8 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}
+
+#sep-bottom-8 .bg {
+    background-image: url('../images/bg-paint-bottom.png');
+    background-repeat: repeat-x;
+    background-position: center bottom;
+    background-size: auto 50px;
+}
+#subscribe-halfbg-field .bg {
+    background-image: url(../images/bg-pattern-1.png);
+    background-repeat: repeat;
+    background-position: center center;
+    background-size: 200px auto;
+    opacity: 0.075;
+}
+#contact-img-map-text .bg-wrap {
+    background-color: #F2F0ED;
+}
